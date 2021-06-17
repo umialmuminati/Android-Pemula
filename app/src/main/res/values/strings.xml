@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KpopList</string>
+    <string name="nama_grup">Nama Grup</string>
+    <string name="nama_agensi">Nama Agensi</string>
+
+    // Profile Section
+    <string name="profile">Profile</string>
+    <string name="my_name">Umi Al Mu\'minati</string>
+    <string name="my_email">umi.almuminati@gmail.com</string>
+    <string name="detail_kpop">Detail Kpop</string>
+
+    // Detail Info
+    <string name="overview">Tanggal Debut \nNama Agensi \nGenre \nAlbum</string>
+    <string name="content_detail">Content Detail</string>
+</resources>
