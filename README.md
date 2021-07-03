@@ -1,8 +1,7 @@
 # Dicoding Submission Kelas Android Pemula
 Tugas akhir kelas belajar membuat aplikasi android pemula
 # Disclaimer!!!
-Project aplikasi ini hanya untuk memenuhi tugas akhir dari kelas Dicoding, segala bentuk plagiarisme akan terdeteksi.
-Gunakan project ini sebagai referensi saja jangan asal copy-paste. Happy Learning!!! :))
+This application project is only to fulfill the final project of the Dicoding class, all forms of plagiarism will be detected. Use this project as a reference only, don't just copy-paste. Happy Learning!!! :))
 # Screenshot
 <p>
 <img src="https://user-images.githubusercontent.com/71740298/124342608-38b53b00-dbef-11eb-87bc-77518fb845be.png" alt="Splash Screen" width="200" style="max-width:100%;">
